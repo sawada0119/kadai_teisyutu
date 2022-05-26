@@ -1,0 +1,68 @@
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\bin\Debug\SimpleMVVM.WPF.exe.config
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\bin\Debug\SimpleMVVM.WPF.exe
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\bin\Debug\SimpleMVVM.WPF.pdb
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.AssemblyReference.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\IndexPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\MainWindow.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\CommandPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\EditFullNamePage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FieldMemberModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FullNameModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ModelIncrementAgePage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleViewModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ViewModelIncrementAgePage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\App.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\IndexPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\CommandPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\EditFullNamePage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FieldMemberModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FullNameModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ModelIncrementAgePage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleViewModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ViewModelIncrementAgePage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\App.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF_MarkupCompile.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.g.resources
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\kaorun.samples.SimpleMVVM.WPF.Properties.Resources.resources
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.GenerateResource.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.CoreCompileInputs.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.exe
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.pdb
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\bin\Debug\SimpleMVVM.WPF.exe.config
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\bin\Debug\SimpleMVVM.WPF.exe
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\bin\Debug\SimpleMVVM.WPF.pdb
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.AssemblyReference.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\IndexPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\MainWindow.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\CommandPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\EditFullNamePage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FieldMemberModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FullNameModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ModelIncrementAgePage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleViewModelPage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ViewModelIncrementAgePage.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\App.baml
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\IndexPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\CommandPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\EditFullNamePage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FieldMemberModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\FullNameModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ModelIncrementAgePage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\SimpleViewModelPage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\Views\ViewModelIncrementAgePage.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\App.g.cs
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF_MarkupCompile.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.g.resources
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\kaorun.samples.SimpleMVVM.WPF.Properties.Resources.resources
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.GenerateResource.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.csproj.CoreCompileInputs.cache
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.exe
+C:\Users\yukku\OneDrive\デスクトップ\kaorun_samples-master\kaorun_samples-master 課題提出　澤田　雄平\SimpleMVVM\SimpleMVVM.WPF\obj\Debug\SimpleMVVM.WPF.pdb
